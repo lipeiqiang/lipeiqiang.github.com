@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://www.youlu.com
+url: http://lipeiqiang.github.com
 author: lipeiqiang
 pygments: true
 paginate: 16
