@@ -10,9 +10,9 @@ tags:
 
 
 
-##CodeIgniter 去掉URL中的index.php
+CodeIgniter 去掉URL中的index.php
 
-###在CI根目录下创建一个.htaccess文件
+在CI根目录下创建一个.htaccess文件
 内容如下:
 
 		RewriteEngine on   
@@ -25,7 +25,7 @@ tags:
 		 sudo touch .htaccess
 然后修改权限，通过vim上面的配置内容。
 
-###检查apache配置，httpd.conf文件
+检查apache配置，httpd.conf文件
 * 是否加载了LoadModule rewrite_module modules/mod_rewrite.so
 * 打开配置文件
 
