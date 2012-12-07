@@ -16,7 +16,7 @@ tags:
 但是如果需要在iOS Deviece上进行调试的话，是必须有iDP的。
 
 ####Objective-C和iOS入门
-iOS Dev Center最近上线了一篇中文的开发文档,<马上着手开发 iOS 应用程序 (Start Developing iOS Apps Today)>,初学者一定要看看。https://developer.apple.com/library/ios/#referencelibrary/GettingStarted/RoadMapiOSCh/chapters/Introduction.html
+iOS Dev Center最近上线了一篇中文的开发文档,[《马上着手开发 iOS 应用程序 (Start Developing iOS Apps Today)》](https://developer.apple.com/library/ios/#referencelibrary/GettingStarted/RoadMapiOSCh/chapters/Introduction.html),初学者一定要看看。
 
 ####加快开发速度的框架
 *  AFNetworking or MKNetwork
